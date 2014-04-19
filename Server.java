@@ -6,6 +6,7 @@ import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
 //This is a random comment, part 2
+//I added this comment in github's editor, just to check it out
 public class Server implements Hello {
 	
 	private int count =0;
