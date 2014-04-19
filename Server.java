@@ -5,6 +5,7 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
+//This is a random comment
 public class Server implements Hello {
 	
 	private int count =0;
