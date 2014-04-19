@@ -7,6 +7,7 @@ import java.rmi.server.UnicastRemoteObject;
 
 //This is a random comment, part 2
 //I added this comment in github's editor, just to check it out
+//Now this comment is going to be updated in github
 public class Server implements Hello {
 	
 	private int count =0;
